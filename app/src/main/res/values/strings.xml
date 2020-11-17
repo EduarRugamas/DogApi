@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DogApi</string>
+    <string-array name="spinner">
+        <item>Selecciona un perro</item>
+        <item>bullterrier</item>
+        <item>chow</item>
+        <item>pug</item>
+        <item>pitbull</item>
+        <item>pekinese</item>
+        <item>doberman</item>
+        <item>corgi</item>
+        <item>chihuahua</item>
+        <item>boxer</item>
+    </string-array>
+</resources>
